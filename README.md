@@ -11,7 +11,7 @@ Select any area on a webpage and instantly search it with Google or ChatGPT.
 - 快捷键调用
 - 任意网页区域截图选择
 - chrome请自行登录ChatGPT和Google账号
-本插件无需登录、无需上传数据、无隐私收集。
+- 本插件无需登录、无需上传数据、无隐私收集。
 
 ------------------------------------------
  
