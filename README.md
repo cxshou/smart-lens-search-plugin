@@ -15,7 +15,7 @@ Select any area on a webpage and instantly search it with Google or ChatGPT.
 
 ------------------------------------------
  
-# 使用方法：
+# 安装方法：
 1. 下载 AIplugin.zip
 2. 解压到任意目录
 3. 打开 chrome://extensions/
